@@ -1,0 +1,13 @@
+Naming conventions 
+---------------------------------------
+ROUTER		this.resource('tables')
+			App.TablesRoute
+
+CONTROLLER 	App.TablesController
+
+MODEL 		App.Table
+
+VIEWS		App.TablesView
+
+TEMPLATE 	tables
+----------------------------------------
