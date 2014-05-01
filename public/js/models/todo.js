@@ -18,6 +18,11 @@ Todos.Todo.FIXTURES = [
 	{
 		id: 3,
 		title: 'Profit',
+		isCompleted: true
+	},
+	{
+		id: 4,
+		title: '....',
 		isCompleted: false
 	}
 ];
